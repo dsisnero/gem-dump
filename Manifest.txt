@@ -1,0 +1,11 @@
+.autotest
+Guardfile
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/gem_dump/exporter.rb
+lib/rubygems/commands/dump_command.rb
+lib/rubygems_plugin.rb
+spec/gem/dump_spec.rb
+spec/spec_helper.rb
